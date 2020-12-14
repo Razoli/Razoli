@@ -10,3 +10,5 @@ I'm Statistician and working with Data Science {Statistics Analysis, Machine Lea
 - 🔭 I’m currently working on Applied Statistics, Machine Learning and Big Data.
 - 🌱 I’m currently learning Reinforment Learning (RL).
 - 👯 I’m looking to collaborate on community of Data Science
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Razoli&show_icons=true&theme=vue-dark)
